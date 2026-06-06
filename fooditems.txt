@@ -1,0 +1,26 @@
+1,Cha,Drinks,10.0
+2,Coffee,Drinks,20.0
+3,Ice Tea,Drinks,30.0
+4,Mojo,Drinks,20.0
+5,Burger,Fast Food,350.0
+6,Pizza,Fast Food,120.0
+7,Khichuri Platter,Meal,170.0
+8,Fried Rice,Meal,180.0
+9,Chicken Fry,Fast Food,140.0
+10,Chicken Shawarma,Fast Food,160.0
+11,Beef Burger,Fast Food,250.0
+12,Club Sandwich,Fast Food,130.0
+13,French Fries,Snacks,90.0
+14,Chicken Nuggets,Snacks,110.0
+15,Chicken Biryani,Meal,220.0
+16,Beef Tehari,Meal,200.0
+17,Vegetable Soup,Soup,80.0
+18,Cold Coffee,Drinks,70.0
+19,Lassi,Drinks,60.0
+20,Orange Juice,Drinks,50.0
+21,Mineral Water,Drinks,20.0
+22,Pasta Alfredo,Fast Food,210.0
+23,Cheese Pizza,Fast Food,260.0
+24,Egg Sandwich,Snacks,70.0
+25,Chocolate Cake,Dessert,150.0
+26,Kinder Joy,Chocolates,150.0

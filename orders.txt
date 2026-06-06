@@ -1,0 +1,2 @@
+520|Saad|Cha, Burger, Chicken Fry, Mojo|Cha x2 = 20.0 (Per unit price 10.0)<br>Burger x2 = 700.0 (Per unit price 350.0)<br>Chicken Fry x4 = 560.0 (Per unit price 140.0)<br>Mojo x2 = 40.0 (Per unit price 20.0)<br>|1320.0
+230|Mimi|Beef Burger, Chicken Fry, Kinder Joy, Coffee|Beef Burger x2 = 500.0 (Per unit price 250.0)<br>Chicken Fry x6 = 840.0 (Per unit price 140.0)<br>Kinder Joy x4 = 600.0 (Per unit price 150.0)<br>Coffee x3 = 60.0 (Per unit price 20.0)<br>|2000.0
