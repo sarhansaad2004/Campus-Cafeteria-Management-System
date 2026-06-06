@@ -1,8 +1,11 @@
 Project Title:
 Campus Cafeteria Management System
 
-Group Name:
-JVM Junkies
+Developer:
+Sarhan Saad
+
+Student ID:
+2024100000520
 
 ==================================================
 
@@ -25,98 +28,106 @@ and user-friendly cafeteria management solution.
 Main Functionalities:
 
 Admin/Staff Can:
-- Add food items
-- Update food items
-- Delete food items
-- Search food items
-- Manage cafeteria menu
+
+* Add food items
+* Update food items
+* Delete food items
+* Search food items
+* Manage cafeteria menu
 
 Customers Can:
-- Select multiple food items
-- Add items to cart
-- Place orders
-- View item wise bill
-- Automatically calculate grand total
-- Search orders
+
+* Select multiple food items
+* Add items to cart
+* Place orders
+* View item wise bill
+* Automatically calculate grand total
+* Search orders
 
 ==================================================
 
 Technologies Used:
 
-- Java
-- Java Swing
-- JTable
-- ArrayList
-- File Handling
-- OOP Concepts
+* Java
+* Java Swing
+* JTable
+* ArrayList
+* File Handling
+* OOP Concepts
 
 ==================================================
 
 Features of the Project:
 
-- JTabbedPane based interface
-- JTable CRUD Operations
-- Food Search System
-- Order Search System
-- Multi Item Cart Ordering
-- Auto Grand Total Calculation
-- Item Wise Bill Display
-- Input Validation using JOptionPane
-- Delete Confirmation Dialog
-- Permanent Food Storage using Text File
-- Menu Bar with About and Exit Option
+* JTabbedPane based interface
+* JTable CRUD Operations
+* Food Search System
+* Order Search System
+* Multi Item Cart Ordering
+* Auto Grand Total Calculation
+* Item Wise Bill Display
+* Input Validation using JOptionPane
+* Delete Confirmation Dialog
+* Permanent Food Storage using Text File
+* Permanent Order Storage using Text File
+* Menu Bar with About and Exit Option
 
 ==================================================
 
 OOP Concepts Used:
 
 1. Encapsulation
-- Private variables with getter and setter methods
+
+* Private variables with getter and setter methods
 
 2. Inheritance
-- Customer class extends User class
+
+* Customer class extends User class
 
 3. Abstraction
-- Abstract User class
+
+* Abstract User class
 
 4. Polymorphism
-- Constructor overloading and method overriding
+
+* Method overriding and runtime polymorphism
 
 ==================================================
 
 Project File Descriptions:
 
 1. Main.java
-Starts the application and creates the main JFrame,
-JTabbedPane and all GUI panels.
+   Starts the application and creates the main JFrame,
+   JTabbedPane and all GUI panels.
 
 2. User.java
-Abstract parent class containing common user data.
+   Abstract parent class containing common user data.
 
 3. Customer.java
-Child class extending User class.
+   Child class extending User class.
 
 4. FoodItem.java
-Model class for storing food item information.
+   Model class for storing food item information.
 
 5. Order.java
-Model class for storing customer order information.
+   Model class for storing customer order information.
 
 6. FoodItemManager.java
-Handles food item CRUD operations and file handling.
+   Handles food item CRUD operations and file handling.
 
 7. OrderManager.java
-Handles order CRUD operations and order searching.
+   Handles order CRUD operations, order searching and
+   order file storage.
 
 8. FoodItemPanel.java
-GUI panel for food item management.
+   GUI panel for food item management.
 
 9. OrderPanel.java
-GUI panel for customer order management and cart
-system.
+   GUI panel for customer order management and cart
+   system.
 
 10. AppMenuBar.java
-Creates application menu bar and dialogs.
+    Creates application menu bar and dialogs.
 
 ==================================================
 
@@ -125,6 +136,10 @@ File Handling:
 Food items are permanently stored in:
 
 fooditems.txt
+
+Orders are permanently stored in:
+
+orders.txt
 
 Data remains saved even after closing the program.
 
@@ -161,54 +176,55 @@ Grand Total = 740.0
 
 ==================================================
 
-Contribution Breakdown:
+Developer Information:
 
-1. Nurjahan Khanom Mim
-- Developed Main.java
-- Developed AppMenuBar.java
-- Assisted in project testing and integration
+Name:
+Sarhan Saad
 
-2. Oyshie Ahmed
-- Developed FoodItem.java
-- Developed Order.java
-- Assisted in model design and data structure planning
+Student ID:
+2024100000520
 
-3. Sharzid Ahamed Ratul
-- Developed User.java
-- Developed Customer.java
-- Implemented OOP concepts including Inheritance and Abstraction
+Department:
+B.Sc. in Computer Science and Engineering (CSE)
 
-4. Mst. Saima Jahan Satu
-- Developed FoodItemManager.java
-- Developed OrderManager.java
-- Implemented CRUD operations and File Handling
-
-5. Sourav Chandra Ghosh
-- Developed FoodItemPanel.java
-- Developed OrderPanel.java
-- Designed GUI interface using Java Swing components
+University:
+Southeast University
 
 ==================================================
 
-Group Members:
+Project Development Contribution:
 
-1. Nurjahan Khanom Mim
-ID: 2024100000230
+This project was independently designed,
+developed, implemented, tested, documented,
+and maintained by Sarhan Saad.
 
-2. Oyshie Ahmed
-ID: 2024100000188
+Responsibilities Included:
 
-3. Sourav Chandra Ghosh
-ID: 2023200000826
+* System Design
+* Java Swing GUI Development
+* OOP Implementation
+* CRUD Operations
+* Food Management Module
+* Order Management Module
+* Cart System Development
+* File Handling Implementation
+* UML Diagram Design
+* Documentation Preparation
+* Testing and Debugging
+* GitHub Repository Management
 
-4. Mst. Saima Jahan Satu
-ID: 2024100000562
+==================================================
 
-5. Sharzid Ahamed Ratul
-ID: 2024100000142
+GitHub Repository:
+
+https://github.com/sarhansaad2004/Campus-Cafeteria-Management-System
 
 ==================================================
 
 Thank You
-JVM Junkies
+
+Developed By:
+Sarhan Saad
+Student ID: 2024100000520
+
 ==================================================
